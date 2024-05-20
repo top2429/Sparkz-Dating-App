@@ -11,12 +11,6 @@
  - src
  ```
 
- ### Screenshots
-![Image 1](assets/images/1.png) ![Image 2](assets/images/2.png)
-![image 3](assets/images/3.png) ![image 4](assets/images/4.png)
-
-   
-
  <h5> The src folder contains all the necessary files for developing and maintaining the UI</h5>
 
  <h5>Inside the UI they are, two folders, shared and the views</h5>
